@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106.25409mm"
+   height="106.25409mm"
+   viewBox="0 0 376.49087 376.49087"
+   id="svg12764"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="v2-box-cover.svg">
+  <defs
+     id="defs12766" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="258.11468"
+     inkscape:cy="207.76816"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata12769">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(751.10257,-826.97392)">
+    <g
+       transform="translate(-750.65257,827.42392)"
+       id="g12740">
+      <polygon
+         style="fill:none;stroke:#000000;stroke-width:0.90000075"
+         points="145.27571,14.17324 173.62219,14.17324 173.62219,0 201.96867,0 201.96867,14.17324 230.31515,14.17324 230.31515,0 258.66163,0 258.66163,14.17324 287.00811,14.17324 287.00811,0 331.29949,0 331.29949,14.17324 361.41762,14.17324 361.41762,44.291375 375.59086,44.291375 375.59086,88.58275 361.41762,88.58275 361.41762,116.92923 375.59086,116.92923 375.59086,145.27571 361.41762,145.27571 361.41762,173.62219 375.59086,173.62219 375.59086,201.96867 361.41762,201.96867 361.41762,230.31515 375.59086,230.31515 375.59086,258.66163 361.41762,258.66163 361.41762,287.00811 375.59086,287.00811 375.59086,331.29949 361.41762,331.29949 361.41762,361.41762 331.29949,361.41762 331.29949,375.59086 287.00811,375.59086 287.00811,361.41762 258.66163,361.41762 258.66163,375.59086 230.31515,375.59086 230.31515,361.41762 201.96867,361.41762 201.96867,375.59086 173.62219,375.59086 173.62219,361.41762 145.27571,361.41762 145.27571,375.59086 116.92923,375.59086 116.92923,361.41762 88.58275,361.41762 88.58275,375.59086 44.291375,375.59086 44.291375,361.41762 14.17324,361.41762 14.17324,331.29949 0,331.29949 0,287.00811 14.17324,287.00811 14.17324,258.66163 0,258.66163 0,230.31515 14.17324,230.31515 14.17324,201.96867 0,201.96867 0,173.62219 14.17324,173.62219 14.17324,145.27571 0,145.27571 0,116.92923 14.17324,116.92923 14.17324,88.58275 0,88.58275 0,44.291375 14.17324,44.291375 14.17324,14.17324 44.291375,14.17324 44.291375,0 88.58275,0 88.58275,14.17324 116.92923,14.17324 116.92923,0 145.27571,0 "
+         id="polygon12742" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-563.55768"
+       y="1033.4193"
+       id="text17252"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17254"
+         x="-563.55768"
+         y="1033.4193"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70px;font-family:Torque;-inkscape-font-specification:'Torque Medium';stroke:#ff0000;fill:#ff0000;">Drag:on</tspan></text>
+  </g>
+</svg>
