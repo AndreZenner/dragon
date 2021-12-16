@@ -6,7 +6,7 @@ An assembly kit to build a **Drag:on virtual reality controller with haptic feed
 Below you will find useful links and general instructions, as well as the necessary files, code, and documents.  
 
 Please refer to this repository if you want to re-build Drag:on for private use.
-Commercial use of Drag:on and its underlying feedback concept is protected by the following patent:
+Commercial use of Drag:on and its underlying feedback concept is protected by the following [patent](https://register.dpma.de/DPMAregister/pat/PatSchrifteneinsicht?docId=DE102019105854B3&page=1&dpi=300&lang=de&full=true):
 
 ```
 Zenner, A. and Krüger, A. (2021). Hand-Virtual Reality/Augmented Reality-Steuergerät, VirtualReality/Augmented Reality-System mit demselben sowie Verfahren zur Simulation der Haptik.
@@ -25,7 +25,7 @@ André Zenner and Antonio Krüger. 2019.
 Drag:on - A Virtual Reality Controller Providing Haptic Feedback Based on Drag and Weight Shift. 
 In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). 
 Association for Computing Machinery, New York, NY, USA, Paper 211, 1–12. 
-DOI:https://doi.org/10.1145/3290605.3300441
+DOI: https://doi.org/10.1145/3290605.3300441
 ```
 
 ### BibTeX
