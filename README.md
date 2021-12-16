@@ -1,4 +1,4 @@
-# Drag:on - Build your own haptic VR controller based on air resistance
+# Drag:on - A haptic VR controller based on air resistance
 
 ![Picture of the Drag:on](images/dragon-web-image-2.jpg "The Drag:on")
 
