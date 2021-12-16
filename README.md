@@ -1,4 +1,4 @@
-# Drag:on - A haptic VR controller based on air resistance
+# Drag:on
 
 ![Picture of the Drag:on](images/dragon-web-image-2.jpg "The Drag:on")
 
